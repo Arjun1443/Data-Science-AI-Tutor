@@ -35,3 +35,17 @@ Generate personalized study paths and practice tasks for specific goals (e.g., *
 - 🧑‍🏫 Academic tutoring and teaching aid  
 - 🏢 Corporate or university training assistant  
 - 💼 Interview preparation in AI/ML  
+
+
+
+<img width="1537" height="737" alt="image" src="https://github.com/user-attachments/assets/9e3be709-cd8a-4a8b-a7e7-3a9a3744f08e" />
+<img width="1538" height="735" alt="image" src="https://github.com/user-attachments/assets/c23b0908-29c3-48cd-bc85-2562f4a520ae" />
+
+
+
+
+
+
+
+
+
