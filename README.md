@@ -5,7 +5,7 @@ To make **Data Science education accessible, personalized, and AI-driven** — e
 
 ---
 
-## 📘 About the Project  
+## 📘 About the Project 
 **DataScience AI Tutor** is an intelligent, interactive learning platform that helps students, developers, and enthusiasts master **Data Science, Machine Learning, and AI** through an adaptive, conversational experience.  
 
 ---
